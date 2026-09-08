@@ -1,4 +1,4 @@
-# 🌶️ Naik Foods — Smart Cart E-Commerce Platform
+#  Naik Foods — Smart Cart E-Commerce Platform
 
 > **Authentic Handmade Pickles & Spices with an Intelligent Smart Cart Experience**
 
@@ -6,37 +6,37 @@ Live Demo: [smart-cart-lovat-three.vercel.app](https://smart-cart-lovat-three.ve
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **Naik Foods** is a modern e-commerce web application crafted to deliver authentic, 50-year-old family recipe pickles, chutneys, and artisanal spices directly to food lovers. Built with **React 19** and **Vite**, the application features a **Smart Cart Engine** designed to optimize user engagement, increase average order value, and streamline checkout.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### 🛒 1. Intelligent Smart Cart Engine
-- **Dynamic Free Shipping Progress Bar**: Real-time progress visualizer updating as customers add items, showing exact amount remaining to unlock **FREE Delivery** (Threshold: ₹499).
+- **Dynamic Free Shipping Progress Bar**: Real-time progress visualizer updating as customers add items, showing exact amount remaining to unlock **FREE Delivery** (Threshold: ₹799).
 - **Smart Product Recommendations**: Context-aware recommendation engine that suggests items priced perfectly to help users cross the free delivery threshold.
 - **Cart Persistence**: Automatically synchronizes cart contents with `localStorage`, retaining state across page refreshes.
 - **Animated Drawer & Badges**: Smooth slide-over side drawer with micro-animations and cart badge notifications.
 
-### 🔍 2. Interactive Product Catalog
+###  2. Interactive Product Catalog
 - **Multi-Category Filter**: Instant filtering across *All, Pickles, Chutneys, Spices, and Combos*.
 - **Real-Time Deep Search**: Search engine looking across product titles, descriptions, and ingredient lists.
 - **Stock & Badge Highlights**: Visual indicators for Bestsellers, Handcrafted recipes, Special Combos, and Stock status.
 
-### 👁️ 3. Quick View Product Modal
+###  3. Quick View Product Modal
 - **Comprehensive Product Breakdown**: Displays net weight, customer ratings, review counts, detailed descriptions, and key natural ingredients.
 - **Quantity Selector & Direct Cart Add**: Adjust unit counts before adding directly to cart.
 
-### ⚡ 4. Express Checkout Flow
+###  4. Express Checkout Flow
 - **Order Summary**: Full breakdown of items, quantities, subtotal, and calculated delivery fees.
 - **Address & Payment Options**: Integrated checkout form supporting Cash on Delivery (COD) and Instant UPI/GPay options.
 - **Instant Order Confirmation**: Generates a unique order reference number (`#NF-XXXXXX`) with packing & processing status upon completion.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Layer | Technology |
 | :--- | :--- |
@@ -50,7 +50,7 @@ Live Demo: [smart-cart-lovat-three.vercel.app](https://smart-cart-lovat-three.ve
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 assign/
@@ -88,7 +88,7 @@ assign/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -115,7 +115,7 @@ Ensure you have **Node.js** (v18.0.0 or higher) and **npm** installed on your sy
 
 ---
 
-## ⚙️ Available Scripts
+##  Available Scripts
 
 - `npm run dev` — Starts the Vite development server with Hot Module Replacement (HMR).
 - `npm run build` — Compiles production-ready static assets into the `dist/` folder.
@@ -124,7 +124,7 @@ Ensure you have **Node.js** (v18.0.0 or higher) and **npm** installed on your sy
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 The project is pre-configured for seamless single-page application (SPA) deployment on **Vercel**.
 
