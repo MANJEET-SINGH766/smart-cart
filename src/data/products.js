@@ -27,8 +27,7 @@ export const PRODUCTS = [
     tag: "Chef's Special",
     badgeColor: "#DC2626", // Red
     description: "Whole plump garlic cloves slow-marinated in sun-baked red chili, mustard oil, and tangy spices. Rich in antioxidants and deeply flavorful.",
-    ingredients: [
-],
+    ingredients: ["Garlic Cloves", "Mustard Oil", "Red Chili Powder", "Fenugreek", "Nigella Seeds", "Asafoetida", "Salt"],
     image: "https://www.naikfoods.co.in/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdskzfipt3%2Fimage%2Fupload%2Fv1781329385%2Fmedusa%2F1781329383405-pomelli_photoshoot_image_1_1_0612%2520%25285%2529.png.jpg&w=1920&q=75",
     inStock: true
   },
@@ -83,7 +82,7 @@ export const PRODUCTS = [
   {
     id: "p6",
     name: "Ambadi Bhajiche Lonche",
-    category: "Pickels",
+    category: "Pickles",
     price: 190,
     originalPrice: 250,
     weight: "400g",
@@ -91,8 +90,8 @@ export const PRODUCTS = [
     reviewsCount: 276,
     tag: "Handcrafted",
     badgeColor: "#D97706",
-    description: "Hand-rolled sun-dried black gram flour papads infused with freshly crushed garlic and black pepper. Crispy and crunchy perfection.",
-    ingredients: ["Udad Dal Flour", "Garlic Paste", "Black Pepper", "Asafoetida", "Sajji Khar", "Salt"],
+    description: "Authentic sorrel leaves (Ambadi) pickle crafted with sun-dried spices, garlic, and cold-pressed mustard oil. Tangy, spicy, and traditional flavor.",
+    ingredients: ["Sorrel (Ambadi) Leaves", "Mustard Oil", "Garlic", "Red Chili Powder", "Fenugreek", "Salt"],
     image: "https://res.cloudinary.com/dskzfipt3/image/upload/v1780057106/medusa/1780057104457-pomelli_photoshoot_image_1_1_0529%20%285%29.png.jpg",
     inStock: true
   },
